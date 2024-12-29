@@ -1,6 +1,3 @@
-
-Вот улучшенное и стильное описание для твоего профиля на GitHub:
-
 👋 Hello, World! I'm Anton Vernigora
 🚀 Passionate Technologist | AI Enthusiast | Open-Source Contributor
 
